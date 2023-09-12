@@ -42,32 +42,32 @@
   "node_modules/solid-start/server/types.tsx": [
   ],
   "src/components/Counter.tsx": [
-    "/assets/Counter-71aab2f7.js"
+    "/tools/assets/Counter-3bef9f5f.js"
   ],
   "src/components/InputWithCopy.tsx": [
-    "/assets/norwegian-id-170b5fef.js"
+    "/tools/assets/norwegian-id-d664ccb0.js"
   ],
   "src/components/Menu.tsx": [
   ],
   "src/entry-client.tsx": [
   ],
   "src/lib/norwegian-id-generator.ts": [
-    "/assets/norwegian-id-170b5fef.js"
+    "/tools/assets/norwegian-id-d664ccb0.js"
   ],
   "src/root.css": [
   ],
   "src/root.tsx": [
   ],
   "src/routes/[...404].tsx": [
-    "/assets/_...404_-17b072c0.js"
+    "/tools/assets/_...404_-bf0a0150.js"
   ],
   "src/routes/about.tsx": [
-    "/assets/about-1569c556.js"
+    "/tools/assets/about-32dfd99b.js"
   ],
   "src/routes/index.tsx": [
-    "/assets/index-bfc8b793.js"
+    "/tools/assets/index-ab2f99e2.js"
   ],
   "src/routes/norwegian-id.tsx": [
-    "/assets/norwegian-id-170b5fef.js"
+    "/tools/assets/norwegian-id-d664ccb0.js"
   ]
 }

@@ -13,18 +13,18 @@
       "src/routes/index.tsx",
       "src/routes/norwegian-id.tsx"
     ],
-    "file": "assets/index-c8673efc.js",
+    "file": "assets/index-d7eb393c.js",
     "isEntry": true,
     "src": ".solid/index.html"
   },
-  "_Counter-71aab2f7.js": {
-    "file": "assets/Counter-71aab2f7.js",
+  "_Counter-3bef9f5f.js": {
+    "file": "assets/Counter-3bef9f5f.js",
     "imports": [
       ".solid/index.html"
     ]
   },
   "src/routes/[...404].tsx": {
-    "file": "assets/_...404_-17b072c0.js",
+    "file": "assets/_...404_-bf0a0150.js",
     "imports": [
       ".solid/index.html"
     ],
@@ -32,25 +32,25 @@
     "src": "src/routes/[...404].tsx"
   },
   "src/routes/about.tsx": {
-    "file": "assets/about-1569c556.js",
+    "file": "assets/about-32dfd99b.js",
     "imports": [
       ".solid/index.html",
-      "_Counter-71aab2f7.js"
+      "_Counter-3bef9f5f.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/about.tsx"
   },
   "src/routes/index.tsx": {
-    "file": "assets/index-bfc8b793.js",
+    "file": "assets/index-ab2f99e2.js",
     "imports": [
       ".solid/index.html",
-      "_Counter-71aab2f7.js"
+      "_Counter-3bef9f5f.js"
     ],
     "isDynamicEntry": true,
     "src": "src/routes/index.tsx"
   },
   "src/routes/norwegian-id.tsx": {
-    "file": "assets/norwegian-id-170b5fef.js",
+    "file": "assets/norwegian-id-d664ccb0.js",
     "imports": [
       ".solid/index.html"
     ],
