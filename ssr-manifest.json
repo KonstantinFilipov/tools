@@ -42,32 +42,32 @@
   "node_modules/solid-start/server/types.tsx": [
   ],
   "src/components/Counter.tsx": [
-    "/tools/assets/Counter-3bef9f5f.js"
+    "/tools/assets/Counter-26b7d009.js"
   ],
   "src/components/InputWithCopy.tsx": [
-    "/tools/assets/norwegian-id-d664ccb0.js"
+    "/tools/assets/norwegian-id-1e39069c.js"
   ],
   "src/components/Menu.tsx": [
   ],
   "src/entry-client.tsx": [
   ],
   "src/lib/norwegian-id-generator.ts": [
-    "/tools/assets/norwegian-id-d664ccb0.js"
+    "/tools/assets/norwegian-id-1e39069c.js"
   ],
   "src/root.css": [
   ],
   "src/root.tsx": [
   ],
   "src/routes/[...404].tsx": [
-    "/tools/assets/_...404_-bf0a0150.js"
+    "/tools/assets/_...404_-bcccd12b.js"
   ],
   "src/routes/about.tsx": [
-    "/tools/assets/about-32dfd99b.js"
+    "/tools/assets/about-d2a713fc.js"
   ],
   "src/routes/index.tsx": [
-    "/tools/assets/index-ab2f99e2.js"
+    "/tools/assets/index-c676aea3.js"
   ],
   "src/routes/norwegian-id.tsx": [
-    "/tools/assets/norwegian-id-d664ccb0.js"
+    "/tools/assets/norwegian-id-1e39069c.js"
   ]
 }
