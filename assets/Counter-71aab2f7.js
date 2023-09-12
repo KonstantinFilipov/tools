@@ -1,0 +1,1 @@
+import{a as o,i as a,t as n,d as s}from"./index-c8673efc.js";const c=n('<button class="w-[200px] rounded-full bg-gray-100 border-2 border-gray-300 focus:border-gray-400 active:border-gray-400 px-[2rem] py-[1rem]">Clicks: ');function i(){const[t,e]=o(0);return(()=>{const r=c();return r.firstChild,r.$$click=()=>e(t()+1),a(r,t,null),r})()}s(["click"]);export{i as C};

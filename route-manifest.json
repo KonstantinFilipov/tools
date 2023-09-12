@@ -1,0 +1,115 @@
+{
+  "/*404": {
+    "type": "route",
+    "script": {
+      "type": "script",
+      "href": "/assets/_...404_-17b072c0.js"
+    },
+    "assets": [
+      {
+        "type": "script",
+        "href": "/assets/_...404_-17b072c0.js"
+      },
+      {
+        "type": "script",
+        "href": "/assets/index-c8673efc.js"
+      },
+      {
+        "type": "style",
+        "href": "/assets/index-8de58105.css"
+      }
+    ]
+  },
+  "/about": {
+    "type": "route",
+    "script": {
+      "type": "script",
+      "href": "/assets/about-1569c556.js"
+    },
+    "assets": [
+      {
+        "type": "script",
+        "href": "/assets/about-1569c556.js"
+      },
+      {
+        "type": "script",
+        "href": "/assets/index-c8673efc.js"
+      },
+      {
+        "type": "style",
+        "href": "/assets/index-8de58105.css"
+      },
+      {
+        "type": "script",
+        "href": "/assets/Counter-71aab2f7.js"
+      }
+    ]
+  },
+  "/": {
+    "type": "route",
+    "script": {
+      "type": "script",
+      "href": "/assets/index-bfc8b793.js"
+    },
+    "assets": [
+      {
+        "type": "script",
+        "href": "/assets/index-bfc8b793.js"
+      },
+      {
+        "type": "script",
+        "href": "/assets/index-c8673efc.js"
+      },
+      {
+        "type": "style",
+        "href": "/assets/index-8de58105.css"
+      },
+      {
+        "type": "script",
+        "href": "/assets/Counter-71aab2f7.js"
+      }
+    ]
+  },
+  "/norwegian-id": {
+    "type": "route",
+    "script": {
+      "type": "script",
+      "href": "/assets/norwegian-id-170b5fef.js"
+    },
+    "assets": [
+      {
+        "type": "script",
+        "href": "/assets/norwegian-id-170b5fef.js"
+      },
+      {
+        "type": "script",
+        "href": "/assets/index-c8673efc.js"
+      },
+      {
+        "type": "style",
+        "href": "/assets/index-8de58105.css"
+      }
+    ]
+  },
+  "entry-client": {
+    "type": "entry",
+    "assets": []
+  },
+  "index.html": {
+    "type": "entry",
+    "script": {
+      "type": "script",
+      "href": "/assets/index-c8673efc.js"
+    },
+    "assets": [
+      {
+        "type": "script",
+        "href": "/assets/index-c8673efc.js"
+      },
+      {
+        "type": "style",
+        "href": "/assets/index-8de58105.css"
+      }
+    ]
+  }
+}
