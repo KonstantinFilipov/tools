@@ -3,16 +3,16 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/tools/assets/_...404_-23754d20.js"
+      "href": "/tools/assets/_...404_-89b0fa77.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/tools/assets/_...404_-23754d20.js"
+        "href": "/tools/assets/_...404_-89b0fa77.js"
       },
       {
         "type": "script",
-        "href": "/tools/assets/index-52af64fe.js"
+        "href": "/tools/assets/index-66843b29.js"
       },
       {
         "type": "style",
@@ -24,16 +24,16 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/tools/assets/about-2367a28b.js"
+      "href": "/tools/assets/about-1c058fd8.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/tools/assets/about-2367a28b.js"
+        "href": "/tools/assets/about-1c058fd8.js"
       },
       {
         "type": "script",
-        "href": "/tools/assets/index-52af64fe.js"
+        "href": "/tools/assets/index-66843b29.js"
       },
       {
         "type": "style",
@@ -41,7 +41,7 @@
       },
       {
         "type": "script",
-        "href": "/tools/assets/Counter-62318f58.js"
+        "href": "/tools/assets/Counter-ff4c59df.js"
       }
     ]
   },
@@ -49,16 +49,16 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/tools/assets/calendar-605c3644.js"
+      "href": "/tools/assets/calendar-5625cd2c.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/tools/assets/calendar-605c3644.js"
+        "href": "/tools/assets/calendar-5625cd2c.js"
       },
       {
         "type": "script",
-        "href": "/tools/assets/index-52af64fe.js"
+        "href": "/tools/assets/index-66843b29.js"
       },
       {
         "type": "style",
@@ -66,7 +66,7 @@
       },
       {
         "type": "script",
-        "href": "/tools/assets/_commonjsHelpers-72a828de.js"
+        "href": "/tools/assets/_commonjsHelpers-725317a4.js"
       }
     ]
   },
@@ -74,16 +74,16 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/tools/assets/index-d8b4eeef.js"
+      "href": "/tools/assets/index-d76aae43.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/tools/assets/index-d8b4eeef.js"
+        "href": "/tools/assets/index-d76aae43.js"
       },
       {
         "type": "script",
-        "href": "/tools/assets/index-52af64fe.js"
+        "href": "/tools/assets/index-66843b29.js"
       },
       {
         "type": "style",
@@ -91,7 +91,7 @@
       },
       {
         "type": "script",
-        "href": "/tools/assets/Counter-62318f58.js"
+        "href": "/tools/assets/Counter-ff4c59df.js"
       }
     ]
   },
@@ -99,16 +99,16 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/tools/assets/norwegian-id-e7e0aa71.js"
+      "href": "/tools/assets/norwegian-id-cb22e337.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/tools/assets/norwegian-id-e7e0aa71.js"
+        "href": "/tools/assets/norwegian-id-cb22e337.js"
       },
       {
         "type": "script",
-        "href": "/tools/assets/index-52af64fe.js"
+        "href": "/tools/assets/index-66843b29.js"
       },
       {
         "type": "style",
@@ -116,7 +116,7 @@
       },
       {
         "type": "script",
-        "href": "/tools/assets/InputWithCopy-dd3c404f.js"
+        "href": "/tools/assets/InputWithCopy-0c47c063.js"
       }
     ]
   },
@@ -124,16 +124,16 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/tools/assets/qrcode-0ab9cd41.js"
+      "href": "/tools/assets/qrcode-b9860e3e.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/tools/assets/qrcode-0ab9cd41.js"
+        "href": "/tools/assets/qrcode-b9860e3e.js"
       },
       {
         "type": "script",
-        "href": "/tools/assets/index-52af64fe.js"
+        "href": "/tools/assets/index-66843b29.js"
       },
       {
         "type": "style",
@@ -141,7 +141,7 @@
       },
       {
         "type": "script",
-        "href": "/tools/assets/_commonjsHelpers-72a828de.js"
+        "href": "/tools/assets/_commonjsHelpers-725317a4.js"
       }
     ]
   },
@@ -149,16 +149,16 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/tools/assets/roles-f1bb8d93.js"
+      "href": "/tools/assets/roles-80f711df.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/tools/assets/roles-f1bb8d93.js"
+        "href": "/tools/assets/roles-80f711df.js"
       },
       {
         "type": "script",
-        "href": "/tools/assets/index-52af64fe.js"
+        "href": "/tools/assets/index-66843b29.js"
       },
       {
         "type": "style",
@@ -170,16 +170,16 @@
     "type": "route",
     "script": {
       "type": "script",
-      "href": "/tools/assets/task-list-4df162d5.js"
+      "href": "/tools/assets/task-list-931a06d4.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/tools/assets/task-list-4df162d5.js"
+        "href": "/tools/assets/task-list-931a06d4.js"
       },
       {
         "type": "script",
-        "href": "/tools/assets/index-52af64fe.js"
+        "href": "/tools/assets/index-66843b29.js"
       },
       {
         "type": "style",
@@ -187,7 +187,7 @@
       },
       {
         "type": "script",
-        "href": "/tools/assets/InputWithCopy-dd3c404f.js"
+        "href": "/tools/assets/InputWithCopy-0c47c063.js"
       }
     ]
   },
@@ -199,12 +199,12 @@
     "type": "entry",
     "script": {
       "type": "script",
-      "href": "/tools/assets/index-52af64fe.js"
+      "href": "/tools/assets/index-66843b29.js"
     },
     "assets": [
       {
         "type": "script",
-        "href": "/tools/assets/index-52af64fe.js"
+        "href": "/tools/assets/index-66843b29.js"
       },
       {
         "type": "style",

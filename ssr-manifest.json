@@ -1,12 +1,12 @@
 {
   "\u0000/app/node_modules/lodash/lodash.js?commonjs-module": [
-    "/tools/assets/calendar-605c3644.js"
+    "/tools/assets/calendar-5625cd2c.js"
   ],
   "\u0000/app/node_modules/qrious/dist/qrious.js?commonjs-module": [
-    "/tools/assets/qrcode-0ab9cd41.js"
+    "/tools/assets/qrcode-b9860e3e.js"
   ],
   "\u0000commonjsHelpers.js": [
-    "/tools/assets/_commonjsHelpers-72a828de.js"
+    "/tools/assets/_commonjsHelpers-725317a4.js"
   ],
   "\u0000vite/modulepreload-polyfill": [
   ],
@@ -29,10 +29,10 @@
   "node_modules/animate.css/animate.css": [
   ],
   "node_modules/lodash/lodash.js": [
-    "/tools/assets/calendar-605c3644.js"
+    "/tools/assets/calendar-5625cd2c.js"
   ],
   "node_modules/qrious/dist/qrious.js": [
-    "/tools/assets/qrcode-0ab9cd41.js"
+    "/tools/assets/qrcode-b9860e3e.js"
   ],
   "node_modules/solid-js/dist/solid.js": [
   ],
@@ -59,13 +59,13 @@
   "node_modules/solid-start/server/types.tsx": [
   ],
   "node_modules/swiped-events/src/swiped-events.js": [
-    "/tools/assets/calendar-605c3644.js"
+    "/tools/assets/calendar-5625cd2c.js"
   ],
   "src/components/Counter.tsx": [
-    "/tools/assets/Counter-62318f58.js"
+    "/tools/assets/Counter-ff4c59df.js"
   ],
   "src/components/InputWithCopy.tsx": [
-    "/tools/assets/InputWithCopy-dd3c404f.js"
+    "/tools/assets/InputWithCopy-0c47c063.js"
   ],
   "src/components/Menu.tsx": [
   ],
@@ -74,37 +74,37 @@
   "src/lib/docHeight.ts": [
   ],
   "src/lib/norwegian-id-generator.ts": [
-    "/tools/assets/norwegian-id-e7e0aa71.js"
+    "/tools/assets/norwegian-id-cb22e337.js"
   ],
   "src/lib/useCalendar.ts": [
-    "/tools/assets/calendar-605c3644.js"
+    "/tools/assets/calendar-5625cd2c.js"
   ],
   "src/root.css": [
   ],
   "src/root.tsx": [
   ],
   "src/routes/[...404].tsx": [
-    "/tools/assets/_...404_-23754d20.js"
+    "/tools/assets/_...404_-89b0fa77.js"
   ],
   "src/routes/about.tsx": [
-    "/tools/assets/about-2367a28b.js"
+    "/tools/assets/about-1c058fd8.js"
   ],
   "src/routes/calendar.tsx": [
-    "/tools/assets/calendar-605c3644.js"
+    "/tools/assets/calendar-5625cd2c.js"
   ],
   "src/routes/index.tsx": [
-    "/tools/assets/index-d8b4eeef.js"
+    "/tools/assets/index-d76aae43.js"
   ],
   "src/routes/norwegian-id.tsx": [
-    "/tools/assets/norwegian-id-e7e0aa71.js"
+    "/tools/assets/norwegian-id-cb22e337.js"
   ],
   "src/routes/qrcode.tsx": [
-    "/tools/assets/qrcode-0ab9cd41.js"
+    "/tools/assets/qrcode-b9860e3e.js"
   ],
   "src/routes/roles.tsx": [
-    "/tools/assets/roles-f1bb8d93.js"
+    "/tools/assets/roles-80f711df.js"
   ],
   "src/routes/task-list.tsx": [
-    "/tools/assets/task-list-4df162d5.js"
+    "/tools/assets/task-list-931a06d4.js"
   ]
 }
