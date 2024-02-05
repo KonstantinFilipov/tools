@@ -1,4 +1,13 @@
 {
+  "\u0000/app/node_modules/lodash/lodash.js?commonjs-module": [
+    "/tools/assets/calendar-605c3644.js"
+  ],
+  "\u0000/app/node_modules/qrious/dist/qrious.js?commonjs-module": [
+    "/tools/assets/qrcode-0ab9cd41.js"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/tools/assets/_commonjsHelpers-72a828de.js"
+  ],
   "\u0000vite/modulepreload-polyfill": [
   ],
   "\u0000vite/preload-helper": [
@@ -16,6 +25,14 @@
   "node_modules/@solidjs/router/dist/routing.js": [
   ],
   "node_modules/@solidjs/router/dist/utils.js": [
+  ],
+  "node_modules/animate.css/animate.css": [
+  ],
+  "node_modules/lodash/lodash.js": [
+    "/tools/assets/calendar-605c3644.js"
+  ],
+  "node_modules/qrious/dist/qrious.js": [
+    "/tools/assets/qrcode-0ab9cd41.js"
   ],
   "node_modules/solid-js/dist/solid.js": [
   ],
@@ -41,33 +58,53 @@
   ],
   "node_modules/solid-start/server/types.tsx": [
   ],
+  "node_modules/swiped-events/src/swiped-events.js": [
+    "/tools/assets/calendar-605c3644.js"
+  ],
   "src/components/Counter.tsx": [
-    "/tools/assets/Counter-a255947d.js"
+    "/tools/assets/Counter-62318f58.js"
   ],
   "src/components/InputWithCopy.tsx": [
-    "/tools/assets/norwegian-id-4c264f0b.js"
+    "/tools/assets/InputWithCopy-dd3c404f.js"
   ],
   "src/components/Menu.tsx": [
   ],
   "src/entry-client.tsx": [
   ],
+  "src/lib/docHeight.ts": [
+  ],
   "src/lib/norwegian-id-generator.ts": [
-    "/tools/assets/norwegian-id-4c264f0b.js"
+    "/tools/assets/norwegian-id-e7e0aa71.js"
+  ],
+  "src/lib/useCalendar.ts": [
+    "/tools/assets/calendar-605c3644.js"
   ],
   "src/root.css": [
   ],
   "src/root.tsx": [
   ],
   "src/routes/[...404].tsx": [
-    "/tools/assets/_...404_-ebe31b73.js"
+    "/tools/assets/_...404_-23754d20.js"
   ],
   "src/routes/about.tsx": [
-    "/tools/assets/about-a2e7fa33.js"
+    "/tools/assets/about-2367a28b.js"
+  ],
+  "src/routes/calendar.tsx": [
+    "/tools/assets/calendar-605c3644.js"
   ],
   "src/routes/index.tsx": [
-    "/tools/assets/index-fbc389c0.js"
+    "/tools/assets/index-d8b4eeef.js"
   ],
   "src/routes/norwegian-id.tsx": [
-    "/tools/assets/norwegian-id-4c264f0b.js"
+    "/tools/assets/norwegian-id-e7e0aa71.js"
+  ],
+  "src/routes/qrcode.tsx": [
+    "/tools/assets/qrcode-0ab9cd41.js"
+  ],
+  "src/routes/roles.tsx": [
+    "/tools/assets/roles-f1bb8d93.js"
+  ],
+  "src/routes/task-list.tsx": [
+    "/tools/assets/task-list-4df162d5.js"
   ]
 }
